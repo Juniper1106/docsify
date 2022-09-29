@@ -2,4 +2,4 @@
 
 ## hello markdown!
 
-[press me](<[rustylake.com](https://blog.rustylake.com/)>)
+[press me](https://blog.rustylake.com/)
